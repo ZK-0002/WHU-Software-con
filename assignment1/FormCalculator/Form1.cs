@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace project2
+namespace FormCalculator
 {
     public partial class Form1 : Form
     {

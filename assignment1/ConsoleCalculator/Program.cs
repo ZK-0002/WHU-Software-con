@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace project1
+namespace ConsoleCalculator
 {
-    internal class Program
+    internal class ConsoleCalculator
     {
         public static void Main(string[] args)
         {
@@ -32,7 +32,7 @@ namespace project1
                     break;
                 case "/":
                     if (n2 == 0)
-                        Console.WriteLine("Divide by zero error!");
+                        Console.WriteLine("Cannot divide by zero");
                     else
                     {
                         result = n1 / n2;

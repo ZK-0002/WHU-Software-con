@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace project2.Properties
+namespace FormCalculator.Properties
 {
 
 

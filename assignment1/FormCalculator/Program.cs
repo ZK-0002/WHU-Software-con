@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace project2
+namespace FormCalculator
 {
     internal static class Program
     {
