@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linklistaction", "Linklistaction\Linklistaction.csproj", "{EBC71FD5-0E15-4103-BCF4-C786E5076F7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alarm", "Alarm\Alarm.csproj", "{31051BA5-350F-4F6D-9424-C3BE7000A7D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBC71FD5-0E15-4103-BCF4-C786E5076F7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC71FD5-0E15-4103-BCF4-C786E5076F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC71FD5-0E15-4103-BCF4-C786E5076F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC71FD5-0E15-4103-BCF4-C786E5076F7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31051BA5-350F-4F6D-9424-C3BE7000A7D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31051BA5-350F-4F6D-9424-C3BE7000A7D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31051BA5-350F-4F6D-9424-C3BE7000A7D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31051BA5-350F-4F6D-9424-C3BE7000A7D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
